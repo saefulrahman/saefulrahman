@@ -1,5 +1,3 @@
-## Eful - @efu1st 👋
-
 Hi, I'm Saeful Rahman, but you can call me Eful. I am a **Web Developer** and have been a **Web Developer** for approximately 6 years. I have worked and collaborated with talented people to create quality web products.
 
 -   🌱 I’m currently learning about **UI/UX** and **JavaScript Framework**
